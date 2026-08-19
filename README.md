@@ -1,6 +1,6 @@
 # 🏦 Banking & Finance SQL Analytics Project
 
-![SQL Validation](https://github.com/USERNAME/finance-sql-project/actions/workflows/ci.yml/badge.svg)
+![SQL Validation](https://github.com/koskosilayda-sketch/finance-sql-project/actions/workflows/ci.yml/badge.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?logo=postgresql)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -8,7 +8,6 @@ Uçtan uca bir bankacılık veritabanı: normalize edilmiş şema tasarımı, ge
 temelden ileri seviyeye (window functions, CTE'ler, correlated subquery) uzanan 20 iş odaklı
 SQL sorgusu.
 
-> **Not:** `USERNAME` kısmını kendi GitHub kullanıcı adınla değiştirmeyi unutma (badge linki için).
 
 ---
 
